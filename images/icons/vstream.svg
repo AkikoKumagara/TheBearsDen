@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="25.277948"
+   height="22.047525"
+   viewBox="0 0 25.277948 22.047525"
+   fill="none"
+   role="img"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="vstream.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.5275591"
+     inkscape:cx="57.412396"
+     inkscape:cy="11.230578"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <title
+     id="title2">VStream Logo</title>
+  <path
+     d="M 17.757282,0 H 1.0015022 C 0.23060221,0 -0.25038579,0.835472 0.13671221,1.502132 l 2.94686999,5.07517 z"
+     fill="#ffffff"
+     id="path18"
+     style="fill:#000000" />
+  <path
+     d="m 3.3885222,7.106592 8.3850598,14.44302 c 0.3855,0.6641 1.3446,0.6638 1.7299,-4e-4 l 2.9544,-5.0943 z"
+     fill="#ffffff"
+     id="path20"
+     style="fill:#000000" />
+  <path
+     d="m 18.367682,0 -1.6043,15.925612 8.3778,-14.42335 C 25.528382,0.835602 25.047382,0 24.276382,0 Z"
+     fill="#ffffff"
+     id="path22"
+     style="fill:#000000" />
+</svg>

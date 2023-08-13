@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="266.66699"
+   height="300"
+   viewBox="0 0 266.66699 300"
+   fill="none"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="kick.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.64844587"
+     inkscape:cx="110.26364"
+     inkscape:cy="-55.517355"
+     inkscape:window-width="1350"
+     inkscape:window-height="1041"
+     inkscape:window-x="553"
+     inkscape:window-y="17"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4" />
+  <g
+     clip-path="url(#clip0_3397_160576)"
+     id="g6">
+    <g
+       clip-path="url(#clip1_3397_160576)"
+       id="g4">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="m 0,0 h 100 v 66.6667 h 33.333 V 33.3333 h 33.334 V 0 h 100 v 100 h -33.334 v 33.333 H 200 v 33.334 h 33.333 V 200 h 33.334 v 100 h -100 V 266.667 H 133.333 V 233.333 H 100 V 300 H 0 Z"
+         fill="#000000"
+         id="path2"
+         sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    </g>
+  </g>
+  <defs
+     id="defs14">
+    <clipPath
+       id="clip0_3397_160576">
+      <rect
+         width="933"
+         height="300"
+         fill="#ffffff"
+         id="rect8"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       id="clip1_3397_160576">
+      <rect
+         width="933.33301"
+         height="300"
+         fill="#ffffff"
+         id="rect11"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>
