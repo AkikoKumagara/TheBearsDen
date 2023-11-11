@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="694.5"
-     inkscape:cy="85"
+     inkscape:cx="574.5"
+     inkscape:cy="86"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -36,7 +36,14 @@
      id="defs2" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><path
+     id="layer1"><rect
+       style="fill:#3c3c3c;fill-opacity:1;stroke:#ffffff;stroke-width:0.792;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect330"
+       width="196.63019"
+       height="49.765583"
+       x="100.12241"
+       y="1.5755421"
+       ry="24.882792" /><path
        style="fill:#000000;stroke-width:0.264583"
        id="path461"
        d="" /><path

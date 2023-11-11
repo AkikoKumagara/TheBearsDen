@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dead</title>
+<link href='../images/favicon.svg' rel='shortcut icon' type='image/x-icon' />
+<link href='../images/favicon.svg' rel='icon' />
+<link href='../stylesheet2.css' rel='stylesheet' type='text/css' charset='utf-8' />
+    <style>
+        a{
+
+            cursor: pointer;
+
+        }
+		p {
+			color: #ffffff;
+			font-size:18px;
+			font-family:sans-serif;
+			-webkit-text-fill-color: #ffffff;
+			text-align: center;
+			background-image: url('../images/starfield2.png');
+			background-repeat: repeat-y;
+		}
+		.unselectable {
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        color: #cc0000;
+		}
+		.image {
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+		.image a{
+		display:block;
+		}
+
+		.image img {
+		display:block;
+		width: 30%;
+		height: 30%;
+		}
+		
+		.vertLine {
+		border-right:1px #ff0000;    /* line 1 pixel width, length of "Some content" */
+		}
+
+
+:root {
+  --background: #060608;
+  --color: #FAFAFA;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: Arial;
+}
+
+		body {
+			background-image: url('../images/bgseamlessakierror.png');
+		}
+
+.container {
+  color: var(--color);
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.right {
+  text-align: right;
+  width: 100%;
+}
+
+.stack {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.stack span {
+  font-weight: bold;
+  grid-row-start: 1;
+  grid-column-start: 1;
+  font-size: 6rem;
+  --stack-height: calc(100% / var(--stacks) - 1px);
+  --inverse-index: calc(calc(var(--stacks) - 1) - var(--index));
+  --clip-top: calc(var(--stack-height) * var(--index));
+  --clip-bottom: calc(var(--stack-height) * var(--inverse-index));
+  clip-path: inset(var(--clip-top) 0 var(--clip-bottom) 0);
+  animation: stack 340ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 120ms), glitch 2s ease infinite 2s alternate-reverse;
+}
+
+.stack span:nth-child(odd) { --glitch-translate: 4px; }
+.stack span:nth-child(even) { --glitch-translate: -8px; }
+
+@keyframes stack {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%);
+    text-shadow: -2px 5px 0 red, 2px -3px 0 blue;
+  };
+  60% {
+    opacity: 0.5;
+    transform: translateX(50%);
+  }
+  80% {
+    transform: none;
+    opacity: 1;
+    text-shadow: 2px -3px 0 red, -2px 5px 0 blue;
+  }
+  100% {
+    text-shadow: none;
+  }
+}
+
+@keyframes glitch {
+  0% {
+    text-shadow: -2px 5px 0 red, 2px -3px 0 blue;
+    transform: translate(var(--glitch-translate));
+  }
+  2% {
+    text-shadow: 2px -3px 0 red, -2px 5px 0 blue;
+  }
+  4%, 100% {  text-shadow: none; transform: none; }
+}
+	</style> 
+<div unselectable="on" class="unselectable"><center>
+<ul>
+  <li><a href="..">Home</a></li>
+  <li><a href="../team">Team</a></li>
+  <li><a href="../live">Live</a></li>
+  <li><a href="../lunarshift">Lunar/Shift</a></li>
+  <li><a href="../pc">PC Building</a></li>
+  <li style="float:right"><a style="cursor:pointer" onclick="window.open('mailto:AkikoKumagara@proton.me','name','width=800,height=600')" target="popup">Contact</a></li>
+</ul><hr></head>
+<body ondragstart="return false;" ondrop="return false;"><center>
+<br><br><br><br><br><br><br><br><br><br>
+<font color="white"><div class="stack" style="--stacks: 3;">
+    <span style="--index: 0;">You don't belong here...<br> turn back</span>
+    <span style="--index: 1;">You don't belong here...<br> turn back</span>
+    <span style="--index: 2;">You don't belong here...<br> turn back</span>
+  </div></font>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</center>
+</div>
+</body>
+</html>

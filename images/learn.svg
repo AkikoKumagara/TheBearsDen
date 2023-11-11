@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="725.84509"
-     inkscape:cy="82.731491"
+     inkscape:zoom="1"
+     inkscape:cx="595.49998"
+     inkscape:cy="122"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
@@ -36,7 +36,14 @@
      id="defs2" /><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><path
+     id="layer1"><rect
+       style="fill:#3c3c3c;fill-opacity:1;stroke:#ffffff;stroke-width:0.792;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect330"
+       width="196.63019"
+       height="49.765583"
+       x="100.12241"
+       y="1.5755421"
+       ry="24.882792" /><path
        style="fill:#000000;stroke-width:0.264583"
        id="path461"
        d="" /><path
@@ -56,7 +63,7 @@
        id="path479"
        d="" /><g
        aria-label="Learn to Play"
-       transform="scale(0.98401545,1.0162442)"
+       transform="matrix(0.87075724,0,0,0.89927652,22.839757,3.0453012)"
        id="text993"
        style="font-size:29.0473px;line-height:1.25;font-family:mini-wakuwaku;-inkscape-font-specification:mini-wakuwaku;font-variant-ligatures:none;stroke-width:1.26683"><path
          d="m 120.8448,34.786476 q 0,0.907728 -0.19857,1.106293 l -10.94947,-0.113466 -0.31203,-0.312031 v -22.15424 q 0.19857,-0.198565 0.6808,-0.198565 0.5106,0 0.70916,0.198565 v 20.991213 l 0.5106,0.482231 z"
